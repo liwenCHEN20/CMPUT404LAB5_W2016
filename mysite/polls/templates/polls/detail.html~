@@ -16,7 +16,7 @@
     {% endfor %}
     <input type="submit" value="Vote"/>
 </form>
-<!--http://getbootstrap.com/css/-->
+<!http://getbootstrap.com/css/>
 <div class="row">
   <div class="col-md-1">.col-md-1</div>
   <div class="col-md-1">.col-md-1</div>
